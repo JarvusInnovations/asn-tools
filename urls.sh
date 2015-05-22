@@ -82,4 +82,4 @@ lynx -nonumbers -listonly -dump http://asn.jesandco.org/resources/ASNJurisdictio
 lynx -nonumbers -listonly -dump http://asn.jesandco.org/resources/ASNJurisdiction/WMO | grep _full.json >> urls.txt
 lynx -nonumbers -listonly -dump http://asn.jesandco.org/resources/ASNJurisdiction/WY | grep _full.json >> urls.txt
 
-xargs -P 30 -n 1 wget -nv < urls.txt
+xargs -P 30 -n 1 wget -P data/ -nv < urls.txt

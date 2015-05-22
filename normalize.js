@@ -12,7 +12,7 @@ cluster.setupMaster({
 
 console.log('ASN Normalization Utility');
 
-glob('*_full.json', function (err, files) {
+glob('data/*_full.json', function (err, files) {
     console.log('Processing ' + files.length + ' standards files using ' + numCPUs + ' threads...');
 
     if (err) {
