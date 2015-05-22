@@ -3,7 +3,8 @@ var fs      = require('fs'),
     numCPUs = require('os').cpus().length,
     glob    = require('glob'),
     fileQueue,
-    masterPropCount = {};
+    masterPropCount = {},
+    relationships = {};
 
 cluster.setupMaster({
     exec:   "normalize-worker.js",
@@ -25,10 +26,7 @@ glob('data/*_full.json', function (err, files) {
 });
 
 function processWork(work) {
-    for (var prop in work) {
-        masterPropCount[prop] = masterPropCount[prop] || 0;
-        masterPropCount[prop] += work[prop];
-    }
+    console.log(work + ' items processed...');
 }
 
 function startCluster() {
@@ -44,16 +42,16 @@ function startCluster() {
 
         child.on('message', function (msg) {
             processWork(msg);
-            var work = fileQueue.pop();
+            var work = { file: fileQueue.pop() };
 
-            if (typeof work === 'undefined') {
+            if (typeof work.file === 'undefined') {
                 child.disconnect();
             } else {
                 child.send(work);
             }
         });
 
-        child.send(fileQueue.pop());
+        child.send({ file: fileQueue.pop() });
     });
 
 }
