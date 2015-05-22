@@ -1,0 +1,2118 @@
+{
+  "http://asn.jesandco.org/resources/D1000284.xml" : {
+    "http://xmlns.com/foaf/0.1/primaryTopic" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/rightsHolder" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/dc/terms/modified" : [
+      { "value" : "2013-06-16T17:25:35-04:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2011-03-02T10:05:04-05:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/elements/1.1/creator" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://creativecommons.org/ns#license" : [
+      { "value" : "http://creativecommons.org/licenses/by/3.0/us/", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionURL" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionName" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/ASN/schema/core/exportVersion" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNExport/3.1.0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/D1000284" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/StandardDocument", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/jurisdiction" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNJurisdiction/AK", "type" : "uri" }
+    ],
+    "http://purl.org/dc/elements/1.1/title" : [
+      { "value" : "Alaska Content Standards Geography", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The State Board of Education & Early Development adopted into regulation Content Standards listed on the following pages. Content Standards are broad statements of what students should know and be able to do as a result of their public school experience.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/source" : [
+      { "value" : "http://www.eed.state.ak.us/standards/pdf/standards.pdf", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/publicationStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNPublicationStatus/Published", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/repositoryDate" : [
+      { "value" : "2011-03-02", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/valid" : [
+      { "value" : "2006", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/tableOfContents" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284/manifest.json", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F67E", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F685", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F68E", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F692", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F698", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F69F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F67E" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "A.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student should be able to make and use maps, globes, and graphs to gather, analyze, and report spatial (geographic) information.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F67E", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F67F", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F680", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F681", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F682", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F683", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F684", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F67F" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use maps and globes to locate places and regions;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F67F", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F67E", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F680" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "make maps, globes, and graphs;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F680", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F67E", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F681" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "understand how and why maps are changing documents;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F681", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F67E", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F682" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use graphic tools and technologies to depict and interpret the world's human and physical systems;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F682", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F67E", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F683" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "evaluate the importance of the locations of human and physical features in interpreting geographic patterns; and", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F683", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F67E", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F684" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "6)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use spatial (geographic) tools and technologies to analyze and develop explanations and solutions to geographic problems.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F684", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F67E", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F685" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "B.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student should be able to utilize, analyze, and explain information about the human and physical features of places and regions.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F685", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F686", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F687", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F688", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F689", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F68A", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F68B", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F68C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F68D", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F686" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "know that places have distinctive geographic characteristics;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F686", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F685", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F687" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "analyze how places are formed, identified, named, and characterized;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F687", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F685", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F688" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "relate how people create similarities and differences among places;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F688", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F685", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F689" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "discuss how and why groups and individuals identify with places;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F689", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F685", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F68A" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "describe and demonstrate how places and regions serve as cultural symbols, such as the Statue of Liberty;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F68A", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F685", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F68B" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "6)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "make informed decisions about where to live, work, travel, and seek opportunities;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F68B", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F685", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F68C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "7)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "understand that a region is a distinct area defined by one or more cultural or physical features; and", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F68C", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F685", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F68D" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "8)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "compare, contrast, and predict how places and regions change with time.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F68D", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F685", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F68E" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "C.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student should understand the dynamic and interactive natural forces that shape the Earth's environments.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F68E", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F68F", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F690", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F691", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F68F" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "analyze the operation of the Earth's physical systems, including ecosystems, climate systems, erosion systems, the water cycle, and tectonics;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F68F", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F68E", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F690" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "distinguish the functions, forces, and dynamics of the physical processes that cause variations in natural regions; and", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F690", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F68E", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F691" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "recognize the concepts used in studying environments and recognize the diversity and productivity of different regional environments.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F691", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F68E", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F692" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "D.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student should understand and be able to interpret spatial (geographic) characteristics of human systems, including migration, movement, interactions of cultures, economic activities, settlement patterns, and political units in the state, nation, and world.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F692", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F693", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F694", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F695", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F696", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F697", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F693" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "know that the need for people to exchange goods, services, and ideas creates population centers, cultural interaction, and transportation and communication links;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F693", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F692", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F694" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "explain how and why human networks, including networks for communications and for transportation of people and goods, are linked globally;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F694", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F692", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F695" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "interpret population characteristics and distributions;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F695", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F692", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F696" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "analyze how changes in technology, transportation, and communication impact social, cultural, economic, and political activity; and", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F696", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F692", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F697" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "analyze how conflict and cooperation shape social, economic, and political use of space.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F697", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F692", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F698" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "E.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student should understand and be able to evaluate how humans and physical environments interact.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F698", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F699", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F69A", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F69B", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F69C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F69D", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F69E", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F699" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "understand how resources have been developed and used;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F699", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F698", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F69A" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "recognize and assess local, regional, and global patterns of resource use;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F69A", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F698", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F69B" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "understand the varying capacities of physical systems, such as watersheds, to support human activity;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F69B", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F698", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F69C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "determine the influence of human perceptions on resource utilization and the environment;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F69C", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F698", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F69D" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "analyze the consequences of human modification of the environment and evaluate the changing landscape; and", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F69D", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F698", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F69E" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "6)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "evaluate the impact of physical hazards on human systems.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F69E", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F698", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F69F" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "F.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student should be able to use geography to understand the world by interpreting the past, knowing the present, and preparing for the future.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F69F", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F6A0", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F6A1", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F6A2", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F6A3", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F6A4", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S103F6A5", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F6A0" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "analyze and evaluate the impact of physical and human geographical factors on major historical events;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F6A0", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F69F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F6A1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "compare, contrast, and predict how places and regions change with time;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F6A1", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F69F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F6A2" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "analyze resource management practices to assess their impact on future environmental quality;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F6A2", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F69F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F6A3" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "interpret demographic trends to project future changes and impacts on human environmental systems;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F6A3", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F69F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F6A4" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "examine the impacts of global changes on human activity; and", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F6A4", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F69F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S103F6A5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D1000284", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "6)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/Pre-K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/geography", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "utilize geographic knowledge and skills to support interdisciplinary learning and build competencies required of citizens.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S103F6A5", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S103F69F", "type" : "uri" }
+    ]
+  } 
+}

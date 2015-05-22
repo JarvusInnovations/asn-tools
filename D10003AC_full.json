@@ -1,0 +1,3398 @@
+{
+  "http://asn.jesandco.org/resources/D10003AC.xml" : {
+    "http://xmlns.com/foaf/0.1/primaryTopic" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/rightsHolder" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/dc/terms/modified" : [
+      { "value" : "2013-07-24T16:41:26-04:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2011-03-02T10:15:41-05:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/elements/1.1/creator" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://creativecommons.org/ns#license" : [
+      { "value" : "http://creativecommons.org/licenses/by/3.0/us/", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionURL" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionName" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/ASN/schema/core/exportVersion" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNExport/3.1.0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/D10003AC" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/StandardDocument", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/jurisdiction" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNJurisdiction/GA", "type" : "uri" }
+    ],
+    "http://purl.org/dc/elements/1.1/title" : [
+      { "value" : "Georgia Performance Standards - Psychology", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Psychology is the scientific study of behavior and mental processes. It is a unique science that often necessitates the use of special measurements and research methods. The course has four sections: psychological foundations and research; biological foundations; change in behavior and cognition; and variability of behavior among individual and groups.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/source" : [
+      { "value" : "https://www.georgiastandards.org/standards/Georgia%20Performance%20Standards/Psychology.pdf", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/publicationStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNPublicationStatus/Published", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/repositoryDate" : [
+      { "value" : "2011-03-02", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/valid" : [
+      { "value" : "2008", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/tableOfContents" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC/manifest.json", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA23", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA24", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA25", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA26", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA27", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA23" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/No", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Psychology Foundations and Research", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA23", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA2C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA30", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA2C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPFR1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will explain selected historical and contemporary perspectives and practices of psychologists.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA2C", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA2D", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA2E", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA2F", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA23", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA2D" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPFR1.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Define the field of psychology.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA2D", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA2C", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA2E" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPFR1.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify key figures in the history of the field of psychology and their major contributions; include Wundt, Freud, Skinner, James, Watson and Rogers.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA2E", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA2C", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA2F" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPFR1.c", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "c.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "List and describe the major occupations and subfields of psychology.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA2F", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA2C", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA30" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPFR2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will explain the research methods and the types of statistics used in the field of psychology.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA30", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA31", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA32", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA33", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA34", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA35", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA36", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA37", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA23", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA31" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPFR2.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain how psychologists conduct research to describe, explain, predict, and control behavior.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA31", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA30", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA32" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPFR2.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the types of research methods used by psychologists; include experiment, survey, case study, and observation.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA32", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA30", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA33" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPFR2.c", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "c.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify the basic elements of an experiment; include independent and dependent variables, types of experimental control (blind\/double-blind procedures, placebo controls).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA33", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA30", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA34" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPFR2.d", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "d.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the differences between a correlation and an experiment.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA34", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA30", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA35" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPFR2.e", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "e.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Classify the types and uses of statistics in psychological research; include descriptive statistics and inferential statistics.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA35", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA30", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA36" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPFR2.f", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "f.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Interpret graphic data representations.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA36", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA30", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA37" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPFR2.g", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "g.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain ethical issues in psychological research.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA37", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA30", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA24" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/No", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Biological Foundations", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA24", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA38", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA3F", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA40", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA41", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA42", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA38" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will explain the development, structure, and function of biological systems and their role in behavior, cognition, and emotion.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA38", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA39", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA3A", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA3B", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA3C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA3D", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA3E", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA24", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA39" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF1.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Discuss the major divisions and sub-divisions of the nervous system and their role in behavior; include central (brain and spinal cord) and peripheral [autonomic (sympathetic and parasympathetic) and somatic].", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA39", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA38", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA3A" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF1.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify the components and function of a neuron.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA3A", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA38", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA3B" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF1.c", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "c.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the process of neurotransmission; include action potentials and synaptic transmission.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA3B", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA38", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA3C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF1.d", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "d.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify the major structures and functions of the brain.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA3C", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA38", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA3D" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF1.e", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "e.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the methods used to analyze neural form and function; include the MRI, fMRI, PET, CAT, and EEG.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA3D", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA38", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA3E" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF1.f", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "f.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Examine the role of genetics in the development of behaviors.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA3E", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA38", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA3F" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will compare different states of consciousness.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA3F", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA4C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA4D", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA4E", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA4F", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA50", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA24", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA4C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF2.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the sleep cycle and circadian rhythm,", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA4C", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA3F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA4D" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF2.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain why we sleep and dream.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA4D", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA3F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA4E" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF2.c", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "c.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Investigate the validity of hypnosis as a state of consciousness.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA4E", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA3F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA4F" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF2.d", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "d.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the physical and psychological issues associated with addiction.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA4F", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA3F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA50" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF2.e", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "e.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain how the major drug classes (stimulants, depressants, and hallucinogens) affect neurotransmission and behaviors.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA50", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA3F", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA40" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will discuss the components of stress.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA40", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA4A", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA4B", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA24", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA4A" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF3.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Categorize and explain the different physiological and psychological reactions to stress.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA4A", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA40", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA4B" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF3.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify strategies to deal with stress that promote health; include coping strategies and behavioral modification.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA4B", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA40", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA41" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will describe how the physical world is translated into a psychological experience.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA41", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA45", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA46", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA47", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA48", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA49", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA24", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA45" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF4.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the basic structures of the eye and ear, the associated neural pathways, and the process of sensory transduction.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA45", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA41", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA46" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF4.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Recognize causes which can lead to hearing and vision deficits; include environmental causes, aging, genetics, diet, disease, and trauma.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA46", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA41", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA47" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF4.c", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "c.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the major theories associated with visual and auditory sensation and perception; include opponent process theory, trichromatic theory of vision, frequency theory, volley theory, and place theory of hearing.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA47", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA41", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA48" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF4.d", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "d.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze different perceptual illusions and describe why illusions are important for our understanding of perception.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA48", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA41", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA49" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF4.e", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "e.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Compare top-down and bottom-up processing.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA49", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA41", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA42" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF5", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will identify major theories and concepts related to motivation and emotion.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA42", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA43", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA44", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA24", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA43" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF5.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Compare and contrast the biological, cognitive\/learning, and humanistic perspectives of motivation.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA43", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA42", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA44" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBF5.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Compare and contrast theories of emotion; include James-Lange, Cannon-Bard, and Singer-Schacter's Two Factor.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA44", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA42", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA25" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/No", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Change in Behavior and Cognition", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA25", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA51", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA52", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA53", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA51" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will identify the characteristics of and major approaches to learning.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA51", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA5C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA5D", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA5E", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA5F", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA25", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA5C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC1.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify learning as a relatively permanent change in behavior based on experience.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA5C", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA51", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA5D" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC1.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the behavioral approach to learning.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA5D", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA51", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA5E" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC1.c", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "c.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Compare and contrast the paradigms of classical and operant conditioning.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA5E", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA51", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA5F" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC1.d", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "d.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe changes in behavior using the social learning theory.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA5F", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA51", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA52" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will analyze key concepts associated with information processing.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA52", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA58", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA59", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA5A", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA5B", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA25", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA58" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC2.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the components of the human information processing system; include working memory, long term memory, sensory memory, and attention.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA58", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA52", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA59" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC2.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Evaluate strategies that enhance memory; include mnemonics, rehearsal, and elaboration.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA59", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA52", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA5A" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC2.c", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "c.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze theories of forgetting; include loss of access, interference, displacement, and decay.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA5A", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA52", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA5B" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC2.d", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "d.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the phenomena involved in problem solving and decisionmaking; include heuristics, algorithms, biases, expectancies, and mental set.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA5B", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA52", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA53" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe behavioral, social, and cognitive changes from the prenatal period throughout the life span.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA53", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA54", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA55", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA56", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA57", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA25", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA54" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC3.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Chart physical changes of a human being from conception through late adulthood.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA54", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA53", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA55" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC3.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the developmental models of Freud, Piaget, Kholberg, and Erikson.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA55", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA53", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA56" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC3.c", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "c.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Compare and contrast the theories of language and language acquisition; include Chomsky, Skinner, and Whorf.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA56", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA53", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA57" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPBC3.d", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "d.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe the role of critical periods in development.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA57", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA53", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA26" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/No", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Variability of Behavior among Individuals and Groups", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA26", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA60", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA61", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA62", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA60" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will analyze concepts related to the measurement and nature of intelligence.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA60", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA63", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA64", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA65", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA66", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA26", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA63" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB1.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Differentiate between general and multiple intelligences.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA63", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA60", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA64" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB1.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain how intelligence may be influenced by heredity and environment.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA64", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA60", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA65" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB1.c", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "c.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Evaluate the reliability, validity, and standardization of historical and contemporary intelligence tests.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA65", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA60", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA66" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB1.d", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "d.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Evaluate the implications of measurement of intelligence on the individual and culture.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA66", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA60", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA61" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will evaluate assessment tools and theories in personality.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA61", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA67", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA68", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA69", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA6A", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA26", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA67" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB2.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Evaluate Psychodynamic Theory and its impact on contemporary psychology.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA67", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA61", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA68" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB2.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Evaluate the Humanistic Perspective.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA68", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA61", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA69" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB2.c", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "c.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the purpose and theories of the Trait Perspective of personality.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA69", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA61", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA6A" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB2.d", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "d.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the Social-Cognitive Perspective of personality.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA6A", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA61", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA62" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will identify abnormal behavior and treatment.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA62", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA6B", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA6C", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA6D", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA6E", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA6F", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA26", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA6B" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB3.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Identify criteria that distinguish normal from disordered behavior; include the criteria of distress, deviance, and dysfunction.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA6B", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA62", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA6C" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB3.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Describe methods used to diagnose and assess abnormal behavior; include the current version of the Diagnostic and Statistical Manual, the MMPI, and projective tests.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA6C", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA62", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA6D" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB3.c", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "c.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Compare anxiety disorders, mood disorders, personality disorders, and schizophrenia and describe appropriate treatments for these disorders.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA6D", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA62", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA6E" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB3.d", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "d.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze the challenges associated with labeling psychological disorders and the impact of diagnosis on patients.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA6E", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA62", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA6F" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPVB3.e", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "e.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Compare the biomedical, psychoanalytical, cognitive, and behavioral approaches to the treatment of psychological disorders.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA6F", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA62", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA27" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/No", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Social Psychology", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA27", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA70", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA70" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPSP1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The student will analyze the impact of the social environment on behaviors and attitudes.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA70", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA71", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA72", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA73", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S113AA74", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA27", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA71" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPSP1.a", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "a.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain phenomena that result from the influence of the social environment on the individual and vice versa; include obedience, social facilitation, social loafing, bystander apathy, conformity, groupthink, group polarization, and deindividuation.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA71", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA70", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA72" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPSP1.b", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "b.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze attribution and cognitive dissonance theories pertaining to social judgments and attitudes.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA72", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA70", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA73" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPSP1.c", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "c.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Explain the factors that contribute to affiliation and attraction; include proximity, mere-exposure effect, and similarity.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA73", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA70", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S113AA74" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementNotation" : [
+      { "value" : "SSPSP1.d", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D10003AC", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "d.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/socialStudies", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Analyze and evaluate the ethics of experimentation in social psychology; include Milgram's experiment of obedience and Zimbardo's Stanford Prison Experiment.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/identifier" : [
+      { "value" : "http://purl.org/ASN/resources/S113AA74", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S113AA70", "type" : "uri" }
+    ]
+  } 
+}

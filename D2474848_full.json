@@ -1,0 +1,1576 @@
+{
+  "http://asn.jesandco.org/resources/D2474848.xml" : {
+    "http://xmlns.com/foaf/0.1/primaryTopic" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/rightsHolder" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/dc/terms/modified" : [
+      { "value" : "2013-06-15T10:25:11-04:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-06-15T07:49:39-04:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/elements/1.1/creator" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://creativecommons.org/ns#license" : [
+      { "value" : "http://creativecommons.org/licenses/by/3.0/us/", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionURL" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionName" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/ASN/schema/core/exportVersion" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNExport/3.1.0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/D2474848" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/StandardDocument", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/jurisdiction" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNJurisdiction/AK", "type" : "uri" }
+    ],
+    "http://purl.org/dc/elements/1.1/title" : [
+      { "value" : "Alaska Content Standards Technology", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "The Alaska Content Technology Standards are aligned to International Society for Technology in Education (ISTE) National Educational Technology Standards (NETS). The standards are designed to be integrated across the curriculum.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/source" : [
+      { "value" : "http://www.eed.state.ak.us/standards/pdf/standards.pdf", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/publicationStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNPublicationStatus/Published", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/repositoryDate" : [
+      { "value" : "2013-06-14", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/valid" : [
+      { "value" : "2006", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/tableOfContents" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848/manifest.json", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475059", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475066", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475071", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475076", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475081", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475059" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "A.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student should be able to operate technology-based tools.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475060", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475060" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/No", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student who meets the content standard should:", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475061", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475062", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475063", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475064", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475065", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475059", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475061" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use a computer to enter and retrieve information;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475060", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475062" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use technological tools for learning, communications, and productivity;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475060", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475063" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use local and worldwide networks;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475060", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475064" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "manage and maintain technology tools; and", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475060", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475065" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "diagnose and solve common technology problems.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475060", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475066" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "B.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student should be able to use technology to locate, select, and manage information.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475067", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475067" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/No", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student who meets the content standard should:", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475068", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475069", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475070", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475066", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475068" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "identify and locate information sources using technology;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475067", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475069" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "choose sources of information from a variety of media; and", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475067", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475070" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "select relevant information by applying accepted research methods.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475067", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475071" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "C.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student should be able to use technology to explore ideas, solve problems, and derive meaning.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475072", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475072" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/No", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student who meets the content standard should:", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475073", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475074", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475075", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475071", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475073" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use technology to observe, analyze, interpret, and draw conclusions;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475072", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475074" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "solve problems both individually and with others; and", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475072", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475075" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "create new knowledge by evaluating, combining, or extending information using multiple technologies.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475072", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475076" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "D.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student should be able to use technology to express ideas and exchange information.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475077", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475077" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/No", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student who meets the content standard should:", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475078", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475079", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475080", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475076", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475078" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "convey ideas to a variety of audiences using publishing, multi-media, and communications tools;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475077", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475079" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use communications technology to exchange ideas and information; and", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475077", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475080" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use technology to explore new and innovative methods for interaction with others.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475077", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475081" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "E.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student should be able to use technology responsibly and understand its impact on individuals and society.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475082", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475082" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/No", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "A student who meets the content standard should:", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475083", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475084", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475085", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475086", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475087", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475088", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475089", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2475090", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475081", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475083" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "evaluate the potentials and limitations of existing technologies;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475082", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475084" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "discriminate between responsible and irresponsible uses of technology;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475082", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475085" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "respect others' rights of privacy in electronic environments;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475082", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475086" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "demonstrate ethical and legal behavior regarding intellectual property, which is the manifestation of an original idea, such as computer software, music, or literature;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475082", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475087" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "examine the role of technology in the workplace and explore careers that require the use of technology;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475082", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475088" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "6)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "evaluate ways that technology impacts culture and the environment;", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475082", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475089" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "7)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "integrate the use of technology into daily living; and", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475082", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2475090" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2474848", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "8)", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/technology", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "recognize the implications of emerging technologies.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2475082", "type" : "uri" }
+    ]
+  } 
+}

@@ -1,0 +1,3657 @@
+{
+  "http://asn.jesandco.org/resources/D2499254.xml" : {
+    "http://xmlns.com/foaf/0.1/primaryTopic" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/rightsHolder" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/dc/terms/modified" : [
+      { "value" : "2013-07-18T17:30:28-04:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2013-07-18T17:30:28-04:00", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ],
+    "http://purl.org/dc/elements/1.1/creator" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://creativecommons.org/ns#license" : [
+      { "value" : "http://creativecommons.org/licenses/by/3.0/us/", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionURL" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionName" : [
+      { "value" : "JES & Co.", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#string" }
+    ],
+    "http://purl.org/ASN/schema/core/exportVersion" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNExport/3.1.0", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/D2499254" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/StandardDocument", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/jurisdiction" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNJurisdiction/MT", "type" : "uri" }
+    ],
+    "http://purl.org/dc/elements/1.1/title" : [
+      { "value" : "Montana Standards for Workplace Competencies", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Due to the explosive growth of technology and the globalization of commerce and industry, today's workplace demands that workers work smarter not harder. Thus, schools must help students acquire workplace skills by assisting them in developing the necessary intellectual abilities and personal traits that help them to secure and maintain employment in the business world. Schools should encourage students to use creative and critical thinking skills, which are transferrable from the classroom to the workplace and to the community. In the schools, these workplace skills must build upon the basic skills, higher order thinking, and the practice of personal qualities that emphasize such things as respect and responsibility. Also, these workplace skills need to be taught and understood in an environment that accurately represents the realities of today's workplace.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/source" : [
+      { "value" : "http://opi.mt.gov/PDF/Standards/ContStds-Workplace.pdf", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/publicationStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNPublicationStatus/Published", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/repositoryDate" : [
+      { "value" : "2013-07-15", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/valid" : [
+      { "value" : "2000", "type" : "literal", "datatype" : "http://purl.org/dc/terms/W3CDTF" }
+    ],
+    "http://purl.org/dc/terms/tableOfContents" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254/manifest.json", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499343", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499340" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Workplace Resources\u2014Students identify, organize, plan, and allocate workplace resources of time, money, materials, facilities, and human resources.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499346", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499347", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499348", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499349", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499350", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499351", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499352", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499353", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499354", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499355", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499356", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499357", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499346" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "manage time effectively (e.g., assignment notebook, calendar).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499347" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use basic monetary skills.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499348" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "acquire, store, allocate, and use materials or space (e.g., supplies, notebook).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499349" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "manage personal resources.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499350" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "create and manage plans\/schedules with specific timelines that take into account constraints, priorities, and goals.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499351" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "practice maintaining personal financial records.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499352" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "acquire, store, allocate, and use materials or space.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499353" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "manage personal and team resources to achieve personal and team goals.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499354" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "select goal-relevant activities, rank them, allocate time, and prepare and follow schedules.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499355" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use or prepare budgets, make forecasts, keep records, make adjustments to meet objectives, and evaluate financial records.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499356" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "allocate and evaluate time, materials, facilities and resources to set and achieve goals.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499357" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "assess skills and distribute work accordingly, evaluate performance and provide feedback toward the accomplishment of personal and team goals.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499340", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499341" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Interpersonal Workplace Skills\u2014Students acquire and demonstrate interpersonal workplace skills.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499358", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499359", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499360", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499361", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499362", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499363", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499364", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499365", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499366", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499367", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499368", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499369", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499370", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499371", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499372", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499358" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "practice one's role as an active and cooperative team player while recognizing individual differences and cultural diversity (e.g., be accountable for one's actions).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499359" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "demonstrate a learned skill to peers (e.g., give a \"how to\" demonstration).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499360" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "identify and practice leadership skills (e.g., team leader, class officer, class job).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499361" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "identify and practice negotiation skills and conflict resolution in structured situations.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499362" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "practice basic customer and electronic etiquette (e.g., role-play, order from a menu, appropriate e-mail language).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499363" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use a variety of skills to work as a member of a team while recognizing individual differences and cultural diversity (e.g., listening skills).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499364" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "demonstrate a learned skill and teach others.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499365" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "demonstrate leadership skills by making positive use of rules, regulations and policies of schools and communities.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499366" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "work toward agreements that include exchanging specific resources or resolving divergent interests in structured and unstructured situations.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499367" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "practice positive interpersonal communication skills (e.g., customer service, electronic etiquette, community service project).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499368" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "practice various roles required as a member of an effective team while recognizing individual differences and cultural diversity.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499369" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "demonstrate and teach a learned skill including performance evaluation of self and others in this process.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499370" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "communicate ideas to justify position, persuade and convince others, and responsibly challenge existing procedures and policies.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499371" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "practice and evaluate negotiating process including researching, goal setting, presenting, listening, clarifying, adjusting and compromising.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499372" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "practice and evaluate positive service skills (e.g., resolving misunderstandings, consumer complaints).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499341", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499342" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Workplace Information\u2014Students acquire and use workplace information.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499373", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499374", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499375", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499376", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499377", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499378", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499379", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499380", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499381", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499382", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499383", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499384", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499373" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "identify a variety of sources that provide workplace information.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499374" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "organize information using systematic methods (e.g., assignment book, alphabetizing, calendar).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499375" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use a variety of methods (e.g., oral, written, graphic, pictorial, multimedia) to complete a task.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499376" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "access and organize information from print and electronic sources.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499377" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "identify the need for and obtain data in order to make informed decisions in the workplace.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499378" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "organize and maintain written or computerized records using systematic methods.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499379" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "select and present information using a variety of methods (e.g., oral, written, graphic, pictorial, multimedia).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499380" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "acquire, organize, communicate, process, and analyze information from print and electronic sources.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499381" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "gather, compile and analyze data from a variety of sources, and evaluate relevance and accuracy in making informed decisions in the workplace.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499382" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "organize, process, analyze, and maintain written and computerized records and other forms of information using systematic methods.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499383" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "select, analyze, and present information using a variety of methods (e.g., oral, written, graphic, pictorial, multimedia).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499384" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "acquire, organize, communicate, process, analyze and evaluate information from print and electronic sources.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499342", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499343" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Workplace Systems\u2014Students demonstrate an understanding of how social, organizational and technological systems work.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499385", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499386", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499387", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499388", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499389", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499390", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499391", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499392", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499393", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499385" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "identify components of family, school, and community systems encountered in daily life.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499343", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499386" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "identify and model how components of systems interact (e.g., role-play, class jobs).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499343", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499387" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "work within a system (e.g., team, study group, group structure, classroom rules, mechanical model).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499343", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499388" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "describe and illustrate a system (e.g., relationships among self, family, school, community).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499343", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499389" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "analyze how a system works (i.e., input, process, output, feedback, performance improvement).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499343", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499390" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "design and work within a system (e.g., committees, student council, mock government, simple electrical circuit) to manage, control, and improve performance.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499343", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499391" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "evaluate quality and performance of a variety of systems (e.g., impact of technology on production).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499343", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499392" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "practice and analyze principles of successful system management considering external factors and planning for uncontrolled variables (e.g., balance professional and personal lives).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499343", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499393" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "design, evaluate, and refine a system composed of subsystems (e.g., community service project, peer mediation, web page design).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499343", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499344" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Workplace Technology\u2014Students work safely with a variety of workplace technologies.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499394", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499395", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499396", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499397", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499398", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499399", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499400", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499401", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499402", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499403", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499404", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499405", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499406", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499407", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499408", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499394" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "identify and select information sources using technology.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499395" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "solve problems both individually and with others.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499396" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "prevent or identify and solve problems using technology.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499397" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "discriminate between responsible and irresponsible use of technology.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499398" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "identify and demonstrate appropriate care of technological tools.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499399" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use technology for learning, communications, and productivity.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499400" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "use technology to observe, analyze, interpret, and draw conclusions.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499401" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "prevent or identify and solve problems using technology.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499402" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "acknowledge others' rights and practice responsible use of technology.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499403" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "manage and maintain technological tools and follow troubleshooting protocol.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499404" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "choose procedures and technology to complete a task.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499405" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "create new knowledge by evaluating, combining, and extending information using multiple technologies.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499406" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "prevent or identify and solve problems using technology.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499407" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "practice and advocate ethical behavior in the use of technology.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499408" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "manage and maintain technological systems and follow troubleshooting protocol.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499344", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499345" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "6", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Content Standard", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Workplace Readiness\/Life & Career Planning\u2014Students acquire and demonstrate skills in life and career planning and workplace readiness.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/hasChild" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499409", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499410", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499411", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499412", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499413", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499414", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499415", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499416", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499417", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499418", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499419", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499420", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499421", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499422", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499423", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499424", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499425", "type" : "uri" },
+      { "value" : "http://asn.jesandco.org/resources/S2499426", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499409" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "describe how current learning relates to life and career development.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499410" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "demonstrate positive ways of performing work activities.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499411" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "describe how decisions affect self and others.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499412" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "describe various lifetime roles (e.g., friend, student, leader, worker, family member).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499413" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "explore and discuss a variety of occupational clusters (e.g., health, science) and their contributions to society.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499414" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "6.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/K", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/1", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/2", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/3", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/4", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "describe and demonstrate the importance of personal goal setting and planning.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499415" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "identify how the skills taught in school subjects are used in various life roles and occupations.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499416" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "demonstrate personal qualities (e.g., dependability, punctuality, cooperation) that are needed to get and keep jobs.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499417" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "identify possible outcomes and consequences of decisions.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499418" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "recognize and describe the interrelationships of lifetime roles of family, community, work, and leisure.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499419" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "locate, explore, and evaluate a variety of occupations not limited by stereotypes, bias or traditional roles.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499420" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "6.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/5", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/6", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/7", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/8", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "explore and identify personal interests, aptitudes and abilities and develop strategies to achieve tentative life and career goals.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499421" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "1.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "describe how skills developed in academic and occupational programs relate to life and career planning.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499422" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "2.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "display workplace readiness skills (e.g., responsibility, sociability, self-management, job-seeking skills).", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499423" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "3.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "demonstrate decision-making and problem-solving skills.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499424" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "4.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "describe and evaluate life and career choices and the effect on family and lifestyle.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499425" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "5.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "discuss and demonstrate strategies to overcome bias and stereotyping in the workplace.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  },
+
+  "http://asn.jesandco.org/resources/S2499426" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://purl.org/ASN/schema/core/Statement", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/authorityStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNAuthorityStatus/Original", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/indexingStatus" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNIndexingStatus/Yes", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isPartOf" : [
+      { "value" : "http://asn.jesandco.org/resources/D2499254", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/listID" : [
+      { "value" : "6.", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/educationLevel" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/9", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/10", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/11", "type" : "uri" },
+      { "value" : "http://purl.org/ASN/scheme/ASNEducationLevel/12", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/subject" : [
+      { "value" : "http://purl.org/ASN/scheme/ASNTopic/careerEducation", "type" : "uri" }
+    ],
+    "http://purl.org/ASN/schema/core/statementLabel" : [
+      { "value" : "Benchmark", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "develop, evaluate, and adjust life and career plans.", "type" : "literal", "lang" : "en-US" }
+    ],
+    "http://purl.org/dc/terms/language" : [
+      { "value" : "http://id.loc.gov/vocabulary/iso639-2/eng", "type" : "uri" }
+    ],
+    "http://purl.org/gem/qualifiers/isChildOf" : [
+      { "value" : "http://asn.jesandco.org/resources/S2499345", "type" : "uri" }
+    ]
+  } 
+}
